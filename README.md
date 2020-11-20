@@ -11,4 +11,4 @@ In this project, you'll get to start from scratch! To complete the project, you 
   * a blog post
 as well as any related CSS files for styling.
 
-Project Demo [here](https://reverent-poitras-947344.netlify.app/)
+Project Demo [here](https://nohaaaa.github.io/FEND-P1-Personal-Blog-Website/index.html)
